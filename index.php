@@ -2,7 +2,7 @@
 "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
-<title>Welcome to Stock Management System !</title>
+<title>Welcome to Stock Management System - Group 6 !</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <link rel="stylesheet" type="text/css" href="style.css" />
 <link rel="stylesheet" type="text/css" href="login.css" />
@@ -118,7 +118,7 @@ type="password">                </td>
 			</td>
           </tr>
           <tr>
-            <td height="30" align="center" bgcolor="#88D2F5"><span class="style2"><a href="http://www.pluskb.com">Developed by PlusKB Innovations</a></span></td>
+            <td height="30" align="center" bgcolor="#88D2F5"><span class="style2"><a href="http://www.pluskb.com">Developed by PlusKB Innovations | Group 6</a></span></td>
           </tr>
         </table></td>
       </tr>
