@@ -3,6 +3,8 @@
 // You can however activate syntaxical coloration for a better read.
 die();
 
+//Fixed test the file.
+
 /************************** Before Everything Else: *************************/
 
 // Include the class:
